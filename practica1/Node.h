@@ -17,7 +17,7 @@ Node<T>* next;
 
 //método constructor
 
-Node(T data, Node<T>* next = nullptr) : data(data), next(next) {}
+Node(T data, Node<T>* next = nullptr) : data(data), next(next){}
 
 //método público
 
